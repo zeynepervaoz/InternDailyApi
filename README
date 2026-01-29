@@ -1,0 +1,23 @@
+# InternDailyApi
+
+A RESTful Web API built with ASP.NET Core as part of an internship project.
+
+## Solution Structure
+- InternDailyApi → ASP.NET Core Web API
+- InternDailyWinForms → Client application
+
+## Technologies
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- C#
+
+## Features
+- CRUD operations
+- Layered architecture
+- API-client communication
+
+## Getting Started
+1. Clone the repository
+2. Configure `appsettings.json`
+3. Run the API project
